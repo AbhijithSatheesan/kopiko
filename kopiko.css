@@ -1,0 +1,130 @@
+.container1{
+    background-color: black;
+    padding-bottom: 30px;
+    margin-top: -8px;
+    width: 102%;
+margin-left: -8px;
+}
+.KOPIKOUSAC{
+    color: #abb8c3;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 41px;
+    margin-left: 38%;
+}
+.KOPIKOUSA{
+    color: #abb8c3;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+  
+}
+.NUMC{
+    color: #abb8c3;
+    margin-top: 10px;
+    margin-left: 33%;
+}
+.HOMEC{
+color: red;
+margin-top: 3%;
+margin-left: 26%;
+}
+.HOME{
+
+}
+.option{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 35%;
+    margin-left: 11%;
+}
+.SHOPC{
+    color: white;
+    margin-left: 2%;
+    margin-top: 3%;
+    font-size: 13px;
+    
+}
+.NEWSUPDATESC{
+    color: white;
+    color: white;
+    margin-left: 2%;
+    margin-top: 3%;
+    font-size: 13px;
+}
+.ABOUTUSC{
+    color: white;
+    color: white;
+margin-left: 2%;
+margin-top: 3%;
+font-size: 13px;
+}
+.CONTACTUSC{
+    color: white;
+    margin-left: 2%;
+    margin-top: 3%;
+    font-size: 13px;
+}
+.kpkousa{
+    width: 102%;
+margin-left: -8px;
+}
+.container3{
+    background-color: black;
+    color: #abb8c3;
+background-color: black;
+margin-top: -1%;
+width: 102%;
+margin-left: -1%;
+  padding-top: 11%;
+  padding-left: 16%;
+  padding-bottom: 12%;
+}
+.container4{
+    background-color: black;
+    background-color: black;
+    width: 102%;
+    padding-left: -18px;
+    margin-left: -9px;
+    color: white;
+    padding-bottom: 10%;
+}
+.beans{
+    margin-left: 18%;
+    width: 62%;
+}
+.copyrightc{
+    margin-top: 15%;
+    margin-left: 33%;
+    font-size: 76%;
+}
+.facebook{
+    width: 30px;
+}
+.facebookc{
+    margin-top: -10%;
+    margin-left: 450px;
+}
+.insta{
+    width: 30px;
+    margin-left: 40%;
+}
+.instac{
+    /* margin-top: -32px; */
+    margin-top: -2%;
+}
+.twitterc{
+    /* margin-top: -30px; */
+    margin-top: -2%;
+}
+.twitter{
+    width: 30px;
+    margin-left: 48%;
+}
+.youtubec{
+     margin-top: -3%;
+}
+.youtube{
+    width: 33px;
+    margin-left: 56%;
+}
